@@ -21,3 +21,20 @@ val purple200 = Color(0xFFBB86FC)
 val purple500 = Color(0xFF6200EE)
 val purple700 = Color(0xFF3700B3)
 val teal200 = Color(0xFF03DAC5)
+
+val lime200 = Color(0XFF66FFA6)
+val lime400 = Color(0xFF00E676)
+val lime600 = Color(0xFF00B248)
+
+val gold300 = Color(0xFFFFD54F)
+
+val silver_300 = Color(0xFFBCBCBC)
+val silver_700 = Color(0xFF424242)
+val silver_900 = Color(0xFF1B1B1B)
+
+val white_900 = Color(0xFFFFFFFF)
+val white_900_alpha_87 = Color(0xDEFFFFFF)
+val white_900_alpha_60 = Color(0x99FFFFFF)
+
+val black_500 = Color(0xFF222222)
+val black_600 = Color(0xFF121212)
